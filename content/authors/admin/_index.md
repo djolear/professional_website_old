@@ -6,11 +6,11 @@ title: Daniel O'Leary
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Principal Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Chicago
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,7 +64,7 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "daniel.jp.oleary[at]gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
