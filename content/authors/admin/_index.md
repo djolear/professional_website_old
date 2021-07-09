@@ -66,7 +66,7 @@ email: "daniel.jp.oleary[at]gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a data scientist with research expertise in human behavior. I have technical expertise in predictive modeling, advanced statistics, experimental design, and exploratory data analysis. My subject matter expertise is in decision-making, consumer behavior, motivation/emotion, and health.
+I am a data scientist with research expertise in human behavior. I have technical expertise in predictive modeling, advanced statistics, experimental design, psychometrics, and exploratory data analysis. My subject matter expertise is in decision-making, consumer behavior, motivation, emotion, and health.
 
 I currently work as a principal researcher and postdoctoral scholar in  Consumer Behavior at the University of Chicago Booth Business School and Center for Decision Research. Before coming to Booth, I received my PhD in Psychology from Stanford University where I worked in the Affective Science Area with James Gross. I also worked with Baba Shiv and David Rehkopf. I was a fellow at the Institute for Research in the Social Sciences and a member of the Data Challenge lab.
 
