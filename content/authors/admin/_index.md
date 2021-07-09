@@ -18,22 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Predictive Modeling
+- Experimental Design
+- Statistical Inference
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Psychology
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020
+  - course: BSc in Psychology and English Literature
+    institution: Northwestern University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,7 +66,8 @@ email: "daniel.jp.oleary[at]gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a data scientist with research expertise in human behavior. I have technical expertise in predictive modeling, advanced statistics, experimental design, and exploratory data analysis. My subject matter expertise is in decision-making, consumer behavior, motivation/emotion, and health.
 
-Daniel O'Leary is a principal researcher / postdoctoral scholar in the Consumer Behavior / Marketing Area at the University of Chicago Booth Business School. Before coming to Booth, he received his PhD in Psychology from Stanford University where he worked in the Affective Science Area with James Gross. He also worked with Baba Shiv and David Rehkopf. He was a fellow at the Institute for Research in the Social Sciences and a member of the Data Challenge lab.
+I currently work as a principal researcher and postdoctoral scholar in  Consumer Behavior at the University of Chicago Booth Business School and Center for Decision Research. Before coming to Booth, I received my PhD in Psychology from Stanford University where I worked in the Affective Science Area with James Gross. I also worked with Baba Shiv and David Rehkopf. I was a fellow at the Institute for Research in the Social Sciences and a member of the Data Challenge lab.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
