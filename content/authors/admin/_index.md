@@ -70,8 +70,6 @@ email: "daniel.jp.oleary[at]gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daniel O'Leary is a principal researcher / postdoctoral scholar in the Consumer Behavior / Marketing Area at the University of Chicago Booth Business School. Before coming to Booth, he received his PhD in Psychology from Stanford University where he worked in the Affective Science Area with James Gross. He also worked with Baba Shiv and David Rehkopf. He was a fellow at the Institute for Research in the Social Sciences and a member of the Data Challenge lab.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
