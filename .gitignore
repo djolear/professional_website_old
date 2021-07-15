@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+desktop.ini
 
 # Hugo
 /resources/
